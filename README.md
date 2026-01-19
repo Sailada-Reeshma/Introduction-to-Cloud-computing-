@@ -4,6 +4,7 @@
 This project is created to understand the basic concepts of cloud computing before starting hands-on cloud technologies in upcoming semesters.
 
 ## What is Cloud Computing?
+![Cloud Architecture](cloud-architecture.png)
 Cloud computing is the delivery of computing services such as servers, storage, databases, networking, and software over the internet. It allows users to access resources on demand without owning physical infrastructure.
 
 ## Cloud Service Models
